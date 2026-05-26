@@ -1,2 +1,2 @@
 # used-car-price-prediction
-A project for predicting the price of used cars.
+This project focuses on predicting the price of used cars based on various features such as brand, model, year of manufacture, kilometers driven, fuel type, transmission, engine specifications, and more. The dataset underwent extensive exploratory data analysis (EDA), including handling missing values, outlier treatment, and feature engineering. Several regression models, including Linear Regression, Ridge, and Lasso, were evaluated with hyperparameter tuning using GridSearchCV to achieve optimal predictive performance.
